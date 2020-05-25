@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="login">登录</string>
+    <string name="Hello">你好</string>
+</resources>
